@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/cryptotracker/static/css/main.b100e6da.chunk.css",
-    "main.js": "/cryptotracker/static/js/main.db38a83a.chunk.js",
-    "main.js.map": "/cryptotracker/static/js/main.db38a83a.chunk.js.map",
+    "main.js": "/cryptotracker/static/js/main.a91cf44d.chunk.js",
+    "main.js.map": "/cryptotracker/static/js/main.a91cf44d.chunk.js.map",
     "runtime-main.js": "/cryptotracker/static/js/runtime-main.e6ecda9a.js",
     "runtime-main.js.map": "/cryptotracker/static/js/runtime-main.e6ecda9a.js.map",
     "static/js/2.d78f0dc8.chunk.js": "/cryptotracker/static/js/2.d78f0dc8.chunk.js",
     "static/js/2.d78f0dc8.chunk.js.map": "/cryptotracker/static/js/2.d78f0dc8.chunk.js.map",
     "index.html": "/cryptotracker/index.html",
-    "precache-manifest.e918a489f654d3103d2ec0b410fbc5d4.js": "/cryptotracker/precache-manifest.e918a489f654d3103d2ec0b410fbc5d4.js",
+    "precache-manifest.9f0a318af26282f29210f3286b6d3d44.js": "/cryptotracker/precache-manifest.9f0a318af26282f29210f3286b6d3d44.js",
     "service-worker.js": "/cryptotracker/service-worker.js",
     "static/css/main.b100e6da.chunk.css.map": "/cryptotracker/static/css/main.b100e6da.chunk.css.map",
     "static/js/2.d78f0dc8.chunk.js.LICENSE": "/cryptotracker/static/js/2.d78f0dc8.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.e6ecda9a.js",
     "static/js/2.d78f0dc8.chunk.js",
     "static/css/main.b100e6da.chunk.css",
-    "static/js/main.db38a83a.chunk.js"
+    "static/js/main.a91cf44d.chunk.js"
   ]
 }
