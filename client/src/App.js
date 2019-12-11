@@ -42,7 +42,7 @@ class Home extends Component {
   }
 
   callApi = async () => {
-    const response = await fetch('/api/hello');
+    const response = await fetch('https://honeycomb-cryptotracker.herokuapp.com/api/hello');
     const body = await response.json();
 
     if (response.status !== 200) throw Error(body.message);
@@ -52,7 +52,7 @@ class Home extends Component {
 
   handleSubmit = async e => {
     e.preventDefault();
-    const response = await fetch('/api/world', {
+    const response = await fetch('https://honeycomb-cryptotracker.herokuapp.com/api/world', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
