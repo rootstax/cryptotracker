@@ -16,7 +16,7 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "server": "node-env-run server --exec nodemon | pino-colada",
-    "deploy": "gh-pages -d build && run-p server start"
+    "deploy": "gh-pages -d build"
   },
   "proxy": "http://localhost:5001",
   "eslintConfig": {
